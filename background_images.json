@@ -1,0 +1,24 @@
+{
+    "backgrounds": [
+        {
+            "weather": "cloudy",
+            "image": "cloudy.gif"
+        },
+        {
+            "weather": "sunny",
+            "image": "sunny.gif"
+        },
+        {
+            "weather": "rainny",
+            "image": "rainny.gif"
+        },
+        {
+            "weather": "background",
+            "image": "background.jpeg"
+        },
+        {
+            "weather": "snow",
+            "image": "snow.gif"
+        }
+    ]
+}
